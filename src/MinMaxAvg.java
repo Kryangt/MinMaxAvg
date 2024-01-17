@@ -54,6 +54,6 @@ public class MinMaxAvg {
 
         float average = (Sum-Min-Max) / 8;
 
-        System.out.println(Min + " " + Max + " " + average);
+        System.out.println(Min + " " + Min + " " + average);
    }
 }
